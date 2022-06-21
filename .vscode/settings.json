@@ -1,0 +1,10 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "[typescript]": {
+        "editor.detectIndentation": false,
+        "editor.tabSize": 2,
+    },
+    "typescript.preferences.quoteStyle": "single",
+}
