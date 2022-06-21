@@ -17,5 +17,8 @@
   "homepage": "https://github.com/defaultbranch/wmts-super-tiles",
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "build": "tsc"
   }
 }
